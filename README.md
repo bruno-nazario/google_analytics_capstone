@@ -1,5 +1,9 @@
 # Google Analytics Capstone 
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:793/1*btecI8i1yNczHsGP3z_sCg.png">
+</p>
+
 # Ask
 #### Scenario
 

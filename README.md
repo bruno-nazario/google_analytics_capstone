@@ -97,10 +97,18 @@ I will uncover any surprises in this notebook below.
 #### Casual vs Members
 Let's see how the data is distributed between members and casual riders
 
+![jpg](media/imgs/1.png)
+
+![jpg](media/imgs/2.png)
+
 It's notable that there is a huge disparity between members and casual riders. The number of member rides is nearly double than casual riders.
 
 #### Months
 Let's see how the data is distributed by month
+
+![jpg](media/imgs/3.png)
+
+![jpg](media/imgs/4.png)
 
 * Both members and casual riders have similar behavior across the months
 * The month with more data points was August for members and July for casual riders.
@@ -110,15 +118,24 @@ Above, we could see that there are significantly data points on 6th, 7th, 8th an
 
 I'm Brazilian, I'm not familiar with the vacation months in the USA. According to [this site](https://www.etiaseu.com/articles/when-americans-prefer-travel#:~:text=The%20most%20popular%20time%20of,of%20August%20or%20early%20September.), the summer vacation in USA is  "*mid to late June and return towards the end of August or early September* ". So i used this months to represent vacation and see if there a impact on the data points.
 
+![jpg](media/imgs/5.png)
+
+
 It's evident that there are significanly more rides on vacations months than "non-vacation" months when we look into the casual riders
 
 #### Vacation for members
 Let's make the same analysis but for the members rides
 
+![jpg](media/imgs/6.png)
+
+
 When observing the data for members, it becomes evident that there is a significant concentration of data points during vacation months. In just four months, representing almost 50% of the entire year
 
 #### Weekday
 Now, let's see which are the behavior of the data in relation of the weekdays
+
+![jpg](media/imgs/7.png)
+
 
 What we can observe is:
 
@@ -127,6 +144,9 @@ What we can observe is:
 * The second one is on Thursdays.
 
 * Sunday and Monday have the lowest amount of data.
+  
+
+![jpg](media/imgs/8.png)
 
 Oh, here we can observe several interesting insights:
 
@@ -142,6 +162,8 @@ Oh, here we can observe several interesting insights:
 #### Hours 
 Let's see which are the behavior of the data in relation of the hours
 
+![jpg](media/imgs/9.png)
+
 It's interesting to note here that:
 
 * Both members and casual riders has the highest amount of data in the afternoon (specially after 3 p.m)
@@ -153,6 +175,8 @@ It's interesting to note here that:
 #### Bike type
 Let's see which are the behavior of the data in relation of the bike types
 
+![jpg](media/imgs/10.png)
+
 We can see some interesting points here
 
 * Firstly, members uses more classic bikes than the others and avoid docked bikes.
@@ -162,13 +186,20 @@ We can see some interesting points here
 ### Ride time 
 Let's see which are the behavior of the data in relation of the ride times
 
+![jpg](media/imgs/11.png)
+
+
 The mean time of a ride of a casual is almost double of the members riders
 
 ### Ride time on weekdays
 
+![jpg](media/imgs/12.png)
+
 * At the beginning of the week (Monday to Thursday), members typically take longer rides. However, on weekends, casual riders use the bikes for much longer durations.
  
 * Members generally exhibit less variation in ride time throughout the week. Casual riders, in the other hand, experience a significant increase in usage on weekends, as mentioned previously.
+
+![jpg](media/imgs/13.png)
 
 * When we talk about mean time of rides, we have a whole different analysis. Independent of the day, casual riders, on average, uses bikes for longer periods.
  
@@ -177,6 +208,8 @@ The mean time of a ride of a casual is almost double of the members riders
 * In contrast, members' ride durations do not vary significantly throughout the week.
 
 ### Ride time on months
+
+![jpg](media/imgs/14.png)
 
 * Here we can observe a consistent pattern throughout the analysis: bike usage peaks during the mid-year months (May to September) for both members and casual riders.
 
